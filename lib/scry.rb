@@ -42,8 +42,8 @@ end
 config = {
     :hipchat => {
         :host=>'https://api.hipchat.com',
-        :api_key => 'iIPo30AeWbAku4PfP1hhIFwg3WafFEdmDr7Cdibw',
-        :room_id => '307484',
+        :api_key => '',
+        :room_id => '',
         :colours=>{
             :info=>'green',
             :none=>'gray',
